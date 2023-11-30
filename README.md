@@ -30,3 +30,16 @@ through AUC-ROC, underscores the superior efficacy of the
 diffusion model over CNN and GAN-based methods in detecting
 anomalies in these high-frequency satellite videos characterized
 by a high intensity of clouds.
+
+
+# Dataset 
+The dataset utilized in our paper can be accessed through the link below. It comprises extracted normal clips from day scenes, and we have generated 500 normal clips, each containing 14 frames, using the provided clips.
+
+https://drive.google.com/drive/folders/14q9irXkDozr-HMUtRj2NZVQOl2Q9sdNT?usp=share_link
+
+We also offer the extracted clips specifically captured during night scenes with low light conditions.
+
+https://drive.google.com/drive/folders/1-WsjM-1OCY_kxBT5Ehv-3ljTer2BhSta?usp=share_link
+
+
+
