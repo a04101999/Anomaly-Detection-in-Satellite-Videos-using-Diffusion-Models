@@ -9,7 +9,7 @@ offer information at intervals as frequent as every minute,
 essentially crafting a space-based video feed. Our central focus
 is the detection of anomalies, specifically wildfires and smoke, in
 these satellite videos. In contrast to prior endeavors in anomaly
-detection within surveillance videos [1], this study introduces
+detection within surveillance videos, this study introduces
 a system tailored for high-frequency satellite videos, placing
 particular emphasis on two anomalies. Unlike the majority of
 existing CNN-based methods for wildfire detection that rely on
