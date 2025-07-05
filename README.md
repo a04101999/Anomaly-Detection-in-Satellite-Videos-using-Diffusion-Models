@@ -1,5 +1,4 @@
-The code for the "Anomaly-Detection-in-Satellite-Videos-using-Diffusion-Models
-" will be available soon here 
+
 
 # Anomaly-Detection-in-Satellite-Videos-using-Diffusion-Models
 
